@@ -1,3 +1,1 @@
 # kakao-clone
-
-desktop
